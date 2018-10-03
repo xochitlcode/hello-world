@@ -1,2 +1,4 @@
 # hello-world
-My way into the GIthub world
+
+Hello people,
+  Just trying to navigate through these new lands.
